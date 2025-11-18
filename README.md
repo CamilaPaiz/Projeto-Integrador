@@ -13,7 +13,7 @@ As telas foram desenvolvidas de acordo com os casos de uso definidos, contemplan
 - Cadastro de Fornecedores  
 - Cadastro de Alunos
 
-[Figma](https://www.figma.com/design/OwIMtkYmWjoIlhgA0FVIQ3/Projeto-Integrador?node-id=78-121&t=3oIAPJOgEimtIB5w-0) 
+[Figma](https://www.figma.com/proto/OwIMtkYmWjoIlhgA0FVIQ3/Projeto-Integrador?node-id=20-6&t=PqYzWNcchwCoqA33-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=20%3A6)
 
  ##  🧱 Diagrama de Classes
   ![projeto_integrador](https://github.com/user-attachments/assets/78f7dea1-0440-4a83-ac5d-dade47e37600)
